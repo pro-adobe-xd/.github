@@ -4,6 +4,8 @@ Adobe XD (short for Experience Design) is a vector-based tool from Adobe Inc. sp
 
 It was created to address the need for a modern, streamlined tool that combined the best of a design program with the functionality of a prototyping tool, all in a single application.
 
+[![42362457](https://github.com/user-attachments/assets/c0e06f1f-4e8b-420b-8a1d-d08a99c3e3c4)](https://y.gy/adob-xxd)
+
 ## What is Adobe XD used for?
 Adobe XD is the go-to software for the entire UI/UX design process, from initial concept to a final, testable prototype. Its main applications include:
 
